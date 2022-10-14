@@ -5,7 +5,7 @@
 3) Add classes to elements<br>
 4) Use EventHandler for elements
 <b>
-
+##  
 >getElementById<br>
 >getElementsByClassName<br>
 >QuerySelector<br>
