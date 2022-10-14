@@ -5,6 +5,7 @@
 >querySelectorAll<br>
 >nextElementSibling<br>
 >previousElementSibling
+
 ##
 <b> 
 1) Create and delete elements on the page<br>
