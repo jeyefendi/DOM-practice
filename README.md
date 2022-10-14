@@ -6,9 +6,9 @@
 4) Use EventHandler for elements
 <b>
 
->getElementById
->getElementsByClassName
->QuerySelector
->querySelectorAll
->nextElementSibling
+>getElementById<br>
+>getElementsByClassName<br>
+>QuerySelector<br>
+>querySelectorAll<br>
+>nextElementSibling<br>
 >previousElementSibling
