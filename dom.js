@@ -107,3 +107,33 @@ function handleClick(e) {
 buttons.forEach(button => {
     button.addEventListener('click', handleClick)
 })
+
+// const grandparent = document.getElementById("grandparent-id")
+
+// changeColor(grandparent)
+// function changeColor(element) {
+//   element.style.backgroundColor = "#333"
+// }
+
+// const parents = Array.from(document.getElementsByClassName("parent"))
+// parents.forEach(changeColor)
+
+// const grandparent = document.querySelector("#grandparent-id")
+// changeColor(grandparent)
+
+// const grandparent = document.querySelector(".grandparent")
+// const parents = Array.from.apply(grandparent.children) 
+// const parentOne = parents[0]
+// const children = parentOne.children
+// changeColor(children[0])
+
+// const grandparent = document.querySelector(".grandparent")
+// const children = grandparent.querySelectorAll(".child")
+// children.forEach(chanColor)
+
+// const childOne = document.querySelector("#child-one")
+// const childTwo = childOne.nextElementSibling
+
+fetch('https://reqres.in/api/users', {
+  
+})
